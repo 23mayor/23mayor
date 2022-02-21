@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Mayorov (@23mayor)
 - 👀 I’m interested in frontend-development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning JS
 - 📫 Location - Samara, Russia
 
 <!---
